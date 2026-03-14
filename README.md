@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rukman Bernard</h1>
 
 <p align="center">
-Software Engineer • Laravel Developer • API Integrations • Exploring AI Systems
+Software Engineer • Laravel Developer • API Integration • Exploring AI Systems
 </p>
 
 <p align="center">
-Building scalable web applications, modernising legacy systems, and exploring practical AI-driven solutions.
+I build scalable web applications, modernise legacy systems, and explore practical AI-driven solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer working with **PHP, Laravel, and enterprise integrations**
+- 💼 Software Engineer with experience in **PHP, Laravel, and enterprise API integrations**
 - 🔧 Experienced in maintaining and improving **large legacy PHP platforms**
-- 🧠 Currently exploring **AI applications and data-driven systems**
+- 🧠 Currently exploring **AI-assisted systems and data-driven software**
 - 📚 Research interests include **software architecture, RBAC systems, and applied AI**
 - 🌍 Based in **Sri Lanka**
 
@@ -22,87 +22,95 @@ Building scalable web applications, modernising legacy systems, and exploring pr
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+**Backend**
+- PHP
+- Laravel
+- Python
 
-Backend  
-<img src="https://skillicons.dev/icons?i=php,laravel,python" />
+**Frontend**
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
 
-Frontend  
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" />
+**Infrastructure & DevOps**
+- Docker
+- Redis
+- MySQL / MariaDB
+- Linux
+- Nginx
 
-DevOps & Infrastructure  
-<img src="https://skillicons.dev/icons?i=docker,redis,mysql,linux,nginx" />
-
-Tools  
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-
-</p>
+**Tools**
+- Git
+- VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 ### 🔍 Logo Discovery & Scoring System (LDSS)
-A system designed to identify and rank candidate logo images extracted from websites using explainable scoring heuristics.
 
-Key ideas:
+A system designed to identify likely company logo images from website assets using explainable heuristic scoring methods.
+
+Key concepts include:
+
 - Website asset extraction
-- Heuristic scoring engine
+- Heuristic scoring pipeline
 - Optional AI-assisted evaluation
-- Research-oriented architecture
+- Research-oriented architecture for explainable results
+
+This project is currently under development.
 
 ---
 
 ### 🔐 Laravel Stakeholder RBAC Infrastructure
-Multi-guard role-based access control infrastructure built with Laravel and Spatie permissions.
 
-Features:
-- Multi-stakeholder authentication
-- Guard-aware authorization
-- Infrastructure-focused architecture for scalable systems
+Research-oriented Laravel infrastructure exploring **multi-guard role-based access control** using Spatie permissions.
+
+The project investigates patterns for building scalable authentication and authorisation systems in complex applications.
+
+The research artefact for this work is available in my **research GitHub profile**.
 
 ---
 
 ### 📜 Certificate Lifecycle Management System
-A system designed to manage certificate renewals and prevent API outages caused by expired certificates.
 
-Features include:
-- Expiry monitoring
-- certificate validation
-- scheduled deployment workflows
-- operational dashboards
+Designed and implemented a system to monitor certificate expirations and prevent service outages caused by expired certificates in enterprise integration environments.
+
+Capabilities include:
+
+- certificate expiry monitoring
+- renewal scheduling workflows
+- backend validation of certificate integrity
+- operational visibility through dashboards
+
+(Source code is not public as this was developed within a professional environment.)
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rukman-b&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rukman-b&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=rukman-b&show_icons=true" />
 </p>
 
 ---
 
-## 📚 Research & Publications
+## 📚 Research
 
-I also maintain a separate GitHub account for research artefacts and academic work.
+I maintain a separate GitHub profile for **research artefacts and academic work**, including projects related to:
 
-Topics include:
-
-- Role-based access control systems
-- Higher-education information systems
-- Applied AI and data-driven software design
+- role-based access control systems
+- higher-education information systems
+- applied AI and software architecture
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn  
-ORCID  
-Research GitHub
+- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- ORCID: https://orcid.org/YOUR-ORCID
+- Research GitHub: https://github.com/YOUR-RESEARCH-GITHUB
 
 ---
 
