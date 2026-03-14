@@ -108,10 +108,23 @@ I maintain a separate GitHub profile for **research artefacts and academic work*
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- ORCID: https://orcid.org/YOUR-ORCID
-- Research GitHub: https://github.com/YOUR-RESEARCH-GITHUB
+## 🌐 Connect With Me
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rukman-bernard">
+<img src="https://img.shields.io/badge/LinkedIn-Rukman%20Bernard-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://orcid.org/0009-0001-2737-8367">
+<img src="https://img.shields.io/badge/ORCID-0009--0001--2737--8367-A6CE39?logo=orcid&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/rukman-bernard">
+<img src="https://img.shields.io/badge/Research%20GitHub-rukman--bernard-black?logo=github&logoColor=white&style=for-the-badge"/>
+</a>
+
+</p>
 ---
 
 <p align="center">
