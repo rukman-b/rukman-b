@@ -108,8 +108,6 @@ I maintain a separate GitHub profile for **research artefacts and academic work*
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rukman-bernard">
