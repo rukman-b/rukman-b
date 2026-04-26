@@ -126,8 +126,7 @@ https://github.com/rukman-bernard
 
 - Multi-guard RBAC systems  
 - Reproducible software artefacts  
-- Higher-education information systems  
-- Applied AI & systems architecture  
+- Higher-education information systems 
 
 ---
 
